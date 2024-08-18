@@ -106,6 +106,8 @@ In I2I generation, the model takes an initial image and modifies it according to
 -To-
 <br>
 ![App Screenshot](https://github.com/Mohansharma13/stable-diffusion-model-/blob/master/images/vishu1%20clone.png)
+
+<br>
 ### Applications
 - **Image Editing**: Modify specific aspects of an image, such as adjusting colors, adding elements, or removing objects.
 - **Style Transfer**: Apply artistic styles or themes to an existing image, transforming its visual appearance.
