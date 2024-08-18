@@ -102,12 +102,10 @@ In I2I generation, the model takes an initial image and modifies it according to
 6. **Decoding**: Finally, the refined latent representation is decoded back into image space to produce the output image. This output can be a modified version of the input image or a completely new image based on the provided conditions.
    <br>
 ![App Screenshot](https://github.com/Mohansharma13/stable-diffusion-model-/blob/master/images/vishu%20(1).jpg)
-<br>
+
 -To-
-<br>
 ![App Screenshot](https://github.com/Mohansharma13/stable-diffusion-model-/blob/master/images/vishu1%20clone.png)
 
-<br>
 ### Applications
 - **Image Editing**: Modify specific aspects of an image, such as adjusting colors, adding elements, or removing objects.
 - **Style Transfer**: Apply artistic styles or themes to an existing image, transforming its visual appearance.
