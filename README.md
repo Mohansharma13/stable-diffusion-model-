@@ -98,6 +98,7 @@ In I2I generation, the model takes an initial image and modifies it according to
 5. **Refinement**: The model refines the latent representation to produce a transformed version of the input image. This can involve changes in style, content, or other attributes as specified by the conditioning.
 
 6. **Decoding**: Finally, the refined latent representation is decoded back into image space to produce the output image. This output can be a modified version of the input image or a completely new image based on the provided conditions.
+   <br>
 ![App Screenshot](https://github.com/Mohansharma13/stable-diffusion-model-/blob/master/images/vishu%20(1).jpg)
 -to-
 ![App Screenshot](https://github.com/Mohansharma13/stable-diffusion-model-/blob/master/images/vishu1%20clone.png)
