@@ -3,6 +3,8 @@
 
 This project implements a Stable Diffusion model from scratch using TensorFlow. The model performs text-to-image generation and image to image generation.
 
+[download model weights](https://drive.google.com/drive/folders/1Qwqd0elFxu20qqHVHZ3fpTi-4JjHsRqZ?usp=drive_link) 
+
 
 ![App Screenshot](https://github.com/Mohansharma13/stable-diffusion-model-/blob/master/images/cat%20image.png)
 
