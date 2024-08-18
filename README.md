@@ -43,6 +43,7 @@ The Stable Diffusion model utilizes a sophisticated architecture for generating 
 
 ## Text-to-Image (T2I) Generation
 ![App Screenshot](https://github.com/Mohansharma13/stable-diffusion-model-/blob/master/images/text%20to%20image.png)
+<br>
 -by urmil
 
 Text-to-Image (T2I) generation is a key feature of the Stable Diffusion model that allows users to create images based on textual descriptions. This process translates natural language prompts into high-quality images, enabling a wide range of creative and practical applications.
@@ -78,6 +79,7 @@ In T2I generation, the model takes a text prompt and generates an image that vis
 ## Image-to-Image (I2I) Generation
 
 ![App Screenshot](https://github.com/Mohansharma13/stable-diffusion-model-/blob/master/images/image%20to%20iamge.png)
+<br>
 -by urmil
 
 Image-to-Image (I2I) generation is a process where the model generates a new image based on an existing image. This functionality extends the capabilities of the Stable Diffusion model beyond text-to-image generation, allowing for creative transformations and enhancements of input images. 
@@ -100,7 +102,9 @@ In I2I generation, the model takes an initial image and modifies it according to
 6. **Decoding**: Finally, the refined latent representation is decoded back into image space to produce the output image. This output can be a modified version of the input image or a completely new image based on the provided conditions.
    <br>
 ![App Screenshot](https://github.com/Mohansharma13/stable-diffusion-model-/blob/master/images/vishu%20(1).jpg)
--to-
+<br>
+-To-
+<br>
 ![App Screenshot](https://github.com/Mohansharma13/stable-diffusion-model-/blob/master/images/vishu1%20clone.png)
 ### Applications
 - **Image Editing**: Modify specific aspects of an image, such as adjusting colors, adding elements, or removing objects.
