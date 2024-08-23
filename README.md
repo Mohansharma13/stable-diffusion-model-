@@ -123,6 +123,6 @@ In I2I generation, the model takes an initial image and modifies it according to
 We would like to extend our gratitude to the following individuals, organizations, and projects
 
 - **Research Papers and Models**: 
-  - [pytorch-stable-diffusion by hkproj](https://github.com/divamgupta/stable-diffusion-tensorflow) - special thank you for youtube tutorial in pytorch https://www.youtube.com/watch?v=ZBKpAp_6TGI&t=6890s
+  - [pytorch-stable-diffusion by hkproj](https://github.com/divamgupta/stable-diffusion-tensorflow) - special thank you
   - [Stable Diffusion Paper](https://github.com/CompVis/stable-diffusion/)
   - [stable-diffusion-tensorflow by divamgupta](https://github.com/divamgupta/stable-diffusion-tensorflow) 
